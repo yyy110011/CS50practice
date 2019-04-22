@@ -1,0 +1,6 @@
+1. Check the program get one command-line argument
+2. Check all argument to make sure all characters are digits
+3. Convert the string to int
+4. Iterate over each character of the plaintext,
+  if it is a letter, rotate it, then print out.
+  if not, print it out
